@@ -10,7 +10,6 @@ Projekt ten jest Proof of Concept stworzonym, aby sprawdzić jak takie narzędzi
 Poniższy filmik YouTube pokazuje jak wygląda wynik procesu przetwarzania danych, którego źródła znajdują się w tym repozytorium.
 
 [![TheSame - Analiza posiedzenia Sejmu RP w oparciu o narzędzia AI](http://img.youtube.com/vi/dnV5fTl4jM8/0.jpg)](http://www.youtube.com/watch?v=dnV5fTl4jM8 "TheSame - Analiza posiedzenia Sejmu RP w oparciu o narzędzia AI")
-
 http://www.youtube.com/watch?v=dnV5fTl4jM8
 
 ### UWAGA
