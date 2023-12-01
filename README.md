@@ -11,6 +11,8 @@ Poniższy filmik YouTube pokazuje jak wygląda wynik procesu przetwarzania danyc
 
 [![TheSame - Analiza posiedzenia Sejmu RP w oparciu o narzędzia AI](http://img.youtube.com/vi/dnV5fTl4jM8/0.jpg)](http://www.youtube.com/watch?v=dnV5fTl4jM8 "TheSame - Analiza posiedzenia Sejmu RP w oparciu o narzędzia AI")
 
+http://www.youtube.com/watch?v=dnV5fTl4jM8
+
 ### UWAGA
 Do zobaczenia samej prezentacji wystarczy przeskoczyć do kroku 7go mając zainstalowany u siebie TensorBoard. Wszystkie dane pośrednie i wynikowe znajdują się w tym repozytorium i nie trzeba wykonywać wszystkich poniższych kroków. Opisane są jedynie dla udokumentowania tego, co poszczególne skrypty robią.
 
